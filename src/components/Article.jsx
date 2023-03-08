@@ -14,7 +14,6 @@ export default function Article() {
                                 sm={{span:12}}
                                 lg={{span:8}}
                                 xl={{span:6}}
-                                xxl={{span:4}}
                                 >
                                         <div>
                                             <a href="" className="image__link">

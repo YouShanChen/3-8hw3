@@ -1,0 +1,42 @@
+[
+    {
+        "id":"i1",
+        "link":"images/img1.jpg",
+        "name":"Place 1"
+    },
+    {
+        "id":"i2",
+        "link":"images/img2.jpg",
+        "name":"Place 2"
+    },
+    {
+        "id":"i3",
+        "link":"images/img3.jpg",
+        "name":"Place 3"
+    },
+    {
+        "id":"i4",
+        "link":"images/img4.jpg",
+        "name":"Place 4"
+    },
+    {
+        "id":"i5",
+        "link":"images/img5.jpg",
+        "name":"Place 5"
+    },
+    {
+        "id":"i6",
+        "link":"images/img6.jpg",
+        "name":"Place 6"
+    },
+    {
+        "id":"i7",
+        "link":"images/img7.jpg",
+        "name":"Place 7"
+    },
+    {
+        "id":"i8",
+        "link":"images/img8.jpg",
+        "name":"Place 8"
+    }
+]

@@ -1,7 +1,7 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  
+  margin: 0 ;
+  padding: 0;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@
 body{
   font-size:16px;
   line-height: 1.6;
-  background-color: #111828;
+  background-color: #ffffff;
   color:white;
 }
 .main-layout{
@@ -39,18 +39,18 @@ body{
   padding: 0;
   height: auto!important;
   line-height: 1.6;
-  background-color: #111828!important;
+  background-color: #ffffff!important;
 }
 .layout-footer{
   grid-area: footer;
   padding: 0;
   height: auto!important;
   line-height: 1.6;
-  background-color: #111828!important;
+  background-color: #ffffff!important;
 }
 .layout-content{
   grid-area: content;
-  background-color: #111828;
+  background-color: #ffffff;
 }
 .header{
   grid-area:header;
@@ -88,7 +88,7 @@ body{
 }
 .container{
   width: 100%;
-  margin: auto;
+  margin: 0;
 }
 .header{
   text-align:center;
@@ -121,6 +121,6 @@ body{
 }
 @media (min-width:1600px){
   .container{
-    width:1500px;
+    width:1600;
   }
 }

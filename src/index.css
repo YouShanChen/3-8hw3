@@ -22,7 +22,7 @@
 /* Header Style */
 .header {
   background-color: #00979c;
-  height: 30vh;
+  height: auto;
   color: #fff;
   font-size: 0.8rem;
   display: flex;
@@ -32,7 +32,7 @@
 
 @media screen and (min-width: 768px) {
   .header {
-    height: 40vh;
+    height: auto;
     font-size: 1rem;
   }
 }
@@ -133,7 +133,7 @@
 .footer__description {
   font-size: 20px;
   margin: 0;
-  padding: 0 30px;
+  padding: 30px;
   text-align: center;
   padding-bottom: 30px;
   align-self: center;
@@ -150,7 +150,7 @@
 @media screen and (min-width: 992px) {
   .footer__description {
     padding: 0px;
-    text-align: justify;
+    text-align: center;
   }
 
   .footer__list {

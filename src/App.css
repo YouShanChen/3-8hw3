@@ -22,6 +22,9 @@ body{
   line-height: 1.6;
   background-color: #ffffff;
   color:white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .main-layout{
   display: grid;
@@ -121,6 +124,6 @@ body{
 }
 @media (min-width:1600px){
   .container{
-    width:1600;
+    width:1600px;
   }
 }

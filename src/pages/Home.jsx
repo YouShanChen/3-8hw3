@@ -5,7 +5,7 @@ function Home() {
     return (
         <div className="container main-layout">
             <Header className="layout-header" 
-            title="Name"
+            title="YouShanChen"
             slogan="Slogan"
             />
             <Article className="layout-content" />
